@@ -1,0 +1,11 @@
+.wrapper {
+  background: rgb(175, 175, 175);
+  background-image: url('https://cdn1.edgedatg.com/aws/v2/abc/Scandal/showimages/099f3873a16a143a4ab4cb97e69721a2/1440x812-Q80_099f3873a16a143a4ab4cb97e69721a2.jpg');
+  height: 100%;
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: space-around;
+  align-content: flex-start;
+  overflow: auto;
+  padding-bottom: 50px;
+}
